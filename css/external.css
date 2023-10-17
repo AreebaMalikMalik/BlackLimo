@@ -2,6 +2,40 @@ body{
     background-color: black;
     color: white;
 }
+.hey{
+    display: block;
+    min-height: 200%;
+}
+
+#page_1{
+    height: auto;
+    width: 1250px;
+}
+
+#page_2{
+    height: auto;
+    width: 1250px;
+}
+
+#page_3{
+    height: auto;
+    width: 1250px;
+}
+
+#page_4{
+    height: auto;
+    width: 1250px;
+}
+
+#page_5{
+    height: auto;
+    width: 1250px;
+}
+
+#page_6{
+    height: auto;
+    width: 1250px;
+}
 
 .mail{
     width: 18px;
@@ -46,6 +80,7 @@ font-size: 24px;
 }
 
 #reservationNow{
+  
     font-size: 20px;
   font-family: "Lato";
   background-color: black;
@@ -66,6 +101,15 @@ font-size: 24px;
     border: none;
 }
 
+#thirdpage{
+    height: auto;
+    width: 1250px;
+}
+
+#fourthpage{
+    height: auto;
+    width: 1250px;
+}
 .whoweare{
     text-align: center;
     background-color: #101010;
